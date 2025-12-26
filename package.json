@@ -65,7 +65,7 @@
     "liquidjs": "^9.22.1",
     "lodash": "^4.17.20",
     "lunr": "^2.3.9",
-    "lunr-languages": "^1.4.0",
+    "lunr-languages": "^1.14.0",
     "mdast-util-from-markdown": "^0.8.4",
     "mini-css-extract-plugin": "^0.9.0",
     "mkdirp": "^1.0.3",
